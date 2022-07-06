@@ -11,4 +11,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nekoshirro&show_icons=true&locale=en&layout=compact" alt="nekoshirro" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nekoshirro&show_icons=true&locale=en" alt="nekoshirro" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nekoshirro&show_icons=true&include_all_commits=true&icon_color=4863A0&text_color=4863A0&title_color=4863A0&bg_color=FFFFFF)](https://github.com/nekoshirro)" /></p>
