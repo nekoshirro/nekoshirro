@@ -5,10 +5,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/abcdpizkky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="waxaranai" height="30" width="40" /></a>
-<a href="https://instagram.com/hfdz.ky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="waxaranai" height="30" width="40" /></a>
+<a href="https://twitter.com/abcdpizkky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nekoshirro" height="30" width="40" /></a>
+<a href="https://instagram.com/hfdz.ky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nekoshirro" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nekoshirro&show_icons=true&locale=en&layout=compact" alt="nekoshirro" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nekoshirro&show_icons=true&include_all_commits=true&icon_color=4863A0&text_color=4863A0&title_color=4863A0&bg_color=FFFFFF)](https://github.com/nekoshirro)" /></p>
